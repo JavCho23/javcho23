@@ -23,10 +23,6 @@
 <p>
 I'm a full stack developer 🚀 from Perú. I consider myself as a skilled software developer with good logical thinking skills.
 <br/>
-Stacks I have worked with : LAMP , Vue+Firebase , (Laravel | Slim)+Nuxt , Mongo+Adonis+Vue.
-<br/>  
-Things I have recently experimented with : socket.io, vue-cli , react.js and flutter
-<br/>
 Want to become part of startup to change people's lives 🌍 (or create one) and an Open Source Contributor ❤️.
 </p>
 
@@ -35,7 +31,6 @@ Want to become part of startup to change people's lives 🌍 (or create one) and
 
 -   👨🏽‍💻 I’m currently working on @SecuritecPerú (Vue+Adonis+socket.io+Mongo)
 -   🌱 I’m currently learning Javascript in depth
--   💬 Ask me about anything related to JS, Vue, PHP.(After googling it 😌)
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
 -   📫 How to reach me: javier-arturo12@hotmail.com
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
@@ -61,20 +56,11 @@ Want to become part of startup to change people's lives 🌍 (or create one) and
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
-### 👣 Next Steps
 
 _Since you don't want to leave my profile just yet! Here are a few things you can do :_
-
-
-❤️ Mentor me : If you are one of those Saints 😇 who try to help their juniors then you can always leave a msg here [![Twitter Badge](https://img.shields.io/badge/-Javcho23-2399ff?style=flat-square&logo=twitter&logoColor=white&link=https://t.me/amanatg0/)](https://twitter.com/javcho23)
-
-❤️ Offer work : Send the details on [![Linkedin Badge](https://img.shields.io/badge/-Javier_Chavez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aman-atg/)](https://www.linkedin.com/in/aman-atg/)
 
 ❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!
 
-❤️ Connect with me : [![Linkedin Badge](https://img.shields.io/badge/-Javier_Chavez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/javcho23/)](https://www.linkedin.com/in/javcho23/)
 
-<hr/>
 
-⭐️ By [javcho](https://github.com/javcho23)

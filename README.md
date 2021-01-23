@@ -21,10 +21,8 @@
 
   <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Javcho's photo" src="https://i.ibb.co/37RKcbY/Foto.png" />
 <p>
-I'm a full stack developer 🚀 from Perú. I consider myself as a skilled software developer with good logical thinking skills.
+I'm a full stack developer 🚀 from Perú.
 <br/>
-Want to become part of startup to change people's lives 🌍 (or create one) and an Open Source Contributor ❤️.
-</p>
 
   
 ### ✨ Quick Facts
@@ -34,6 +32,8 @@ Want to become part of startup to change people's lives 🌍 (or create one) and
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
 -   📫 How to reach me: javier-arturo12@hotmail.com
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
+-   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
+and be a part of my journey... and See if I can make it or not!
 
 ### 🛠️ Languages and Tools:
 
@@ -56,11 +56,6 @@ Want to become part of startup to change people's lives 🌍 (or create one) and
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
-
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
-
-❤️ Follow me : on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
-and be a part of my journey... and See if I can make it or not!
 
 
 

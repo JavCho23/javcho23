@@ -11,7 +11,7 @@
   <img align="left" alt="Javcho | Twitter" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
 </a>
 
-<a href="javier-arturo12@hotmail.com">
+<a href="javcho@skrin.tech">
   <img align="left" alt="Javcho's Email" width="35px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
 </a>
 </div>
@@ -30,7 +30,7 @@ I'm a full stack developer 🚀 from Perú.
 -   👨🏽‍💻 I’m currently working on @SecuritecPerú (Vue+Adonis+socket.io+Mongo)
 -   🌱 I’m currently learning Javascript in depth
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
--   📫 How to reach me: javier-arturo12@hotmail.com
+-   📫 How to reach me: javcho@skrin.tech
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!

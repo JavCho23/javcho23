@@ -27,7 +27,7 @@ I'm a full stack developer 🚀 from Perú.
   
 ### ✨ Quick Facts
 
--   👨🏽‍💻 I’m currently working on @SecuritecPerú (Vue+Adonis+socket.io+Mongo)
+-   👨🏽‍💻 I’m currently working on @Alegra 
 -   🌱 I’m currently learning Javascript in depth
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
 -   📫 How to reach me: javcho@skrin.tech

@@ -4,7 +4,7 @@
 
 <div style="display:flex; align-items:center">
 <a href="https://www.linkedin.com/in/javcho23/">
-  <img align="left" style="margin-right:5px" alt="Javcho's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />
+  <img align="left" style="margin-right:5px" alt="Javcho's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
 </a>
 
 <a href="https://twitter.com/javcho23">

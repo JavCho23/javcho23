@@ -28,7 +28,7 @@ I'm a full stack developer 🚀 from Perú.
 ### ✨ Quick Facts
 
 -   👨🏽‍💻 I’m currently working on @Alegra 
--   🌱 I’m currently learning Javascript in depth
+-   🌱 I’m currently learning Blockchain
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
 -   📫 How to reach me: javcho@skrin.tech
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)

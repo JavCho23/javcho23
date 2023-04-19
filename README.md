@@ -1,23 +1,5 @@
 ### Hello world 👋, I'm [Javcho](https://github.com/javcho23) 👨‍💻
 
-<br/>
-
-<div style="display:flex; align-items:center">
-<a href="https://www.linkedin.com/in/javcho23/">
-  <img align="left" style="margin-right:5px" alt="Javcho's Linkedin" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
-</a>
-
-<a href="https://twitter.com/javcho23">
-  <img align="left" alt="Javcho | Twitter" width="35px" src="https://assets.stickpng.com/thumbs/580b57fcd9996e24bc43c53e.png" />
-</a>
-
-<a href="javcho@skrin.tech">
-  <img align="left" alt="Javcho's Email" width="35px" src="https://i.pinimg.com/originals/dc/1d/9e/dc1d9ea1fff1f480bef6fcf748460063.png" />
-</a>
-</div>
-
-<br />
-<br/>
 
   <img align="right" height="400px" style="margin-right:40px; margin-left:40px" alt="Javcho's photo" src="https://i.ibb.co/37RKcbY/Foto.png" />
 <p>
@@ -27,10 +9,10 @@ I'm a full stack developer 🚀 from Perú.
   
 ### ✨ Quick Facts
 
--   👨🏽‍💻 I’m currently working on @Alegra 
--   🌱 I’m currently learning Blockchain
+-   👨🏽‍💻 I’m currently working with @Alegra 
+-   🌱 I’m currently learning AWS in deep
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
--   📫 How to reach me: javcho@skrin.tech
+-   📫 How to reach me: <a href="https://www.linkedin.com/in/javcho23/">@javcho23</a>
 -   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!

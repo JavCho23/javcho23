@@ -13,7 +13,7 @@ I'm a full stack developer 🚀 from Perú.
 -   🌱 I’m currently learning AWS in deep
 -   🎿 Hobbies other than coding : Play basketball , Playing single-player videogames , Thinking about writing stories or blog 🤔🤖..
 -   📫 How to reach me: <a href="https://www.linkedin.com/in/javcho23/">@javcho23</a>
--   📝 [Resume](https://drive.google.com/file/d/133DORKs_g-qGfoibV_JtRnGq-9iGkq-p/view?usp=sharing) (old)
+-   📝 [Resume](https://drive.google.com/file/d/1CNiJC-6iaTPhtnT0oVn9Hbls9LH0MXQE/view?usp=sharing)
 -   ♥ Follow me on [![GitHub followers](https://img.shields.io/github/followers/javcho23?label=Follow&style=social)](https://github.com/javcho23/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@javcho23-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/aman_atg)](https://twitter.com/aman_atg)
 and be a part of my journey... and See if I can make it or not!
 
